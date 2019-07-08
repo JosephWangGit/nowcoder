@@ -1,0 +1,11 @@
+/*
+!.gitignore
+!/src/
+!pom.xml
+!README.md
+!/bin/
+!/assembly/
+
+mytest/*
+application-my*.properties
+*-my.*
